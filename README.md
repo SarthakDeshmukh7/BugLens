@@ -116,10 +116,9 @@ BugLens leverages Google's open **Gemma 4** models (`gemma-4-26b-a4b-it` and `ge
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/buglens.git
-   cd buglens
+   git clone https://github.com/SarthakDeshmukh7/BugLens.git
+   cd BugLens
    ```
-   (replace YOUR_GITHUB_USERNAME with the account that hosts this repository)
 
 2. **Install dependencies:**
    ```bash
