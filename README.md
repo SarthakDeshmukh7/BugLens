@@ -163,8 +163,8 @@ The repository includes recorded real Gemma 4 results in demo-cache/: one case w
 
 BugLens was designed and built during the Hacktoberfest x MSC KBTCOE 2026 hackathon, working solo, with AI assistance:
 
-Google Antigravity was the coding environment. Its agent (running a Gemini model, shown in the IDE as "Gemini 3.8 Flash High") wrote most of the code from prompts I wrote and reviewed.
-Claude was used as a helper for planning, architecture, prompt design and debugging guidance. It did not edit the codebase directly.
-Gemma 4 (gemma-4-26b-a4b-it, with gemma-4-31b-it as the fallback, through the Google Gemini API) is the model inside BugLens that analyzes screenshots. No Gemini model is used by the app itself.
+- Google Antigravity was the coding environment. Its agent (running a Gemini model, shown in the IDE as "Gemini 3.8 Flash High") wrote most of the code from prompts I wrote and reviewed.
+- Claude was used as a helper for planning, architecture, prompt design and debugging guidance. It did not edit the codebase directly.
+- Gemma 4 (gemma-4-26b-a4b-it, with gemma-4-31b-it as the fallback, through the Google Gemini API) is the model inside BugLens that analyzes screenshots. No Gemini model is used by the app itself.
 
 I reviewed and tested the code during the build window.
